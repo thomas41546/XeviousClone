@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jul 31 03:03:08 MDT 2009
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=B\:\\BioSampleScan\\XenviousClone\\XenviousClone.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
