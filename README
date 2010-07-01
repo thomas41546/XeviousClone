@@ -1,0 +1,12 @@
+XeviousClone
+============
+Nes game Xevious written in java.
+
+
+Requires:
+Eclipse Galileo
+Java SDK
+
+How to run:
+Import project in Eclipse.
+Execute project as applet.
